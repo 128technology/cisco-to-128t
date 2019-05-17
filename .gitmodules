@@ -1,0 +1,3 @@
+[submodule "ciscoconfparse"]
+	path = ciscoconfparse
+	url = https://github.com/128technology/ciscoconfparse.git
