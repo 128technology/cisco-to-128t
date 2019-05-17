@@ -1,3 +1,0 @@
-[submodule "ciscoconfparse"]
-	path = ciscoconfparse
-	url = https://github.com/mpenning/ciscoconfparse.git
